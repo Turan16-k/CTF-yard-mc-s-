@@ -1,0 +1,5 @@
+# Cekirdek: sadece Python standart kutuphanesi (urllib, base64, re...)
+pytest>=8.0
+# Gelismis moduller (opsiyonel):
+# requests>=2.31
+# python-magic-bin>=0.4   # Windows icin libmagic
